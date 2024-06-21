@@ -8,12 +8,14 @@ keying material for use in the upper layers between the TLS end-points and
 channel bindings is straightforward and well-defined mechanism how to
 authenticate other layers.
 
-[OPENVPN-RFC-5705](https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt)
+[https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt
+](https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt)
 
 ## (OPENAAA) Mutual TLS side-channel Authentication based on decentralized trust
 TLS authentication based on decentralized trust and straightforward
 bindings of AAA information to application layer using well-defined mechanism.
 
-[TLS-SCA](https://github.com/n13l/openaaa/blob/master/doc/tls-sca)
+[https://github.com/n13l/openaaa/blob/master/doc/tls-sca
+](https://github.com/n13l/openaaa/blob/master/doc/tls-sca)
 
 
