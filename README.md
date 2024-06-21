@@ -12,9 +12,6 @@ authenticate other layers.
 [https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt
 ](https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt)
 
-[https://github.com/search?q=repo%3AOpenVPN%2Fopenvpn+author%3An13l&type=commits
-](https://github.com/search?q=repo%3AOpenVPN%2Fopenvpn+author%3An13l&type=commits)
-
 ## OpenAAA
 ## Mutual TLS Side-Channel Authentication Based on Decentralized Trust
 TLS authentication based on decentralized trust and straightforward
