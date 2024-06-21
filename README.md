@@ -1,7 +1,7 @@
 # Personal Efforts in Open Source Security
 
 ## OPENVPN
-### Added support for [RFC5705] TLS Keying Material Exporters
+### Added support for TLS Keying Material Exporters
 Keying Material Exporter [RFC-5705] allow additional keying material to be
 derived from existing TLS channel. This exported keying material can then be
 used for a variety of purposes. TLS allows client and server to establish
