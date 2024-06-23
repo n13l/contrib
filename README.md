@@ -1,5 +1,3 @@
-# Personal Efforts in Open Source Security
-
 ## OpenVPN
 ### Added support for TLS Keying Material Exporters
 Keying Material Exporter [RFC-5705] allow additional keying material to be
@@ -19,5 +17,3 @@ bindings of AAA information to application layer using well-defined mechanism.
 
 [https://github.com/n13l/openaaa/blob/master/doc/tls-sca
 ](https://github.com/n13l/openaaa/blob/master/doc/tls-sca)
-
-
