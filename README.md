@@ -1,9 +1,5 @@
 ### OpenVPN: Added support for TLS Keying Material Exporters
-Keying Material Exporter allow additional keying material to be derived from 
-existing TLS channel. This exported keying material can then be used for a 
-variety of purposes. TLS allows client and server to establish keying material 
-for use in the upper layers between the TLS end-points and channel bindings is 
-straightforward and well-defined mechanism how to authenticate other layers.
+Keying Material Exporter allows additional keying material to be derived from an existing TLS channel. This exported keying material can then be used for a variety of purposes. Keying material used for TLS strong mutual side-channel authentication and channel bindings provides a straightforward and well-defined mechanism to authenticate upper layers. Upper layer authentication based on an existing secured channel does not require any session state or session identifier transfer over the application layer, significantly reducing security risks and providing identifiers and session keys for both endpoints.
 
 [https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt
 ](https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt)
