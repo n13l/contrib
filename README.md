@@ -9,7 +9,7 @@ authenticate other layers.
 [https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt
 ](https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt)
 
-## OpenAAA: TLS Side-Channel Authentication Based on Decentralized Trust
+### OpenAAA: TLS Side-Channel Authentication Based on Decentralized Trust
 TLS authentication based on decentralized trust and straightforward
 bindings of AAA information to application layer using well-defined mechanism.
 
