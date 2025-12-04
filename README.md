@@ -1,8 +1,11 @@
-### OpenSSL: OpenSSL Foundation Team Member
+### OpenSSL: OpenSSL Foundation Team, Member of engineering, staff
 
 OpenSSL, a project with unparalleled global impact on cryptographic algorithms and secure transport protocols, and an integral part of critical infrastructure. It’s embedded in nearly every operating system and underpins the entire global network, reaching all the way to the application layer, making it virtually impossible not to use.
 
+#### Contributed to openssl, security
+
 [Pull requests](https://github.com/openssl/openssl/pulls?q=is%3Apr+author%3An13l)
+[Commits](https://github.com/openssl/openssl/commits?author=n13l)
 [Issues](https://github.com/openssl/openssl/issues?q=is%3Aissue+assignee%3An13l)
 
 ### OpenVPN: Added support for TLS Keying Material Exporters
@@ -11,7 +14,7 @@ Keying Material Exporter allows additional keying material to be derived from an
 [https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt
 ](https://github.com/OpenVPN/openvpn/blob/master/doc/keying-material-exporter.txt)
 
-### OpenAAA: TLS Side-Channel Mutual Authentication
+### OpenAAA: Distributed, Authentication, Authorization and Accouting Library
 TLS Side-Channel Authentication and straightforward bindings of AAA information
 to application layer using well-defined mechanism.
 
