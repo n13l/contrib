@@ -1,4 +1,4 @@
-### OpenSSL: OpenSSL Foundation Team, Member of engineering, staff
+### OpenSSL: OpenSSL Foundation, Member of engineering, staff
 
 OpenSSL, a project with unparalleled global impact on cryptographic algorithms and secure transport protocols, and an integral part of critical infrastructure. It’s embedded in nearly every operating system and underpins the entire global network, reaching all the way to the application layer, making it virtually impossible not to use.
 
